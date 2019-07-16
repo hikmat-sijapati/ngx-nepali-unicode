@@ -1,6 +1,37 @@
 {
   "name": "ngx-nepali-unicode",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hikmat-sijapati/ngx-nepali-unicode.git"
+  },
+  "author": {
+    "name": "Hikmat Sijapati",
+    "email": "hikmatsijapati2014@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "angular-library",
+    "angular-package",
+    "nepali",
+    "unicode",
+    "nepali-unicode",
+    "nepali-unicode-converter",
+    "preeti",
+    "nepali-preeti",
+    "nepali-preeti-convertor",
+    "angular8",
+    "ngx",
+    "ng8",
+    "conversion",
+    "convertor",
+    "directive",
+    "pipe"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hikmat-sijapati/ngx-nepali-unicode.git/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^8.1.1",
     "@angular/core": "^8.1.1"
